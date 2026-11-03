@@ -1,0 +1,47 @@
+## Date: 03/11/2026
+
+**Topic:** Introduction to SQL
+
+**What I learned:**
+- what SQL is and why it is used
+- how databases store data
+- the difference between data and information
+- basic structure of SQL queries
+
+**Key concepts:**
+- `SELECT` is used to fetch data from a table
+- `FROM` specifies the table name
+- SQL is used to communicate with relational databases
+- tables are made up of rows and columns
+
+**Practice:**
+- created a simple database concept in mind
+- practiced understanding table structure
+- learned how queries are written in a readable format
+
+**Challenges:**
+- understanding the difference between database, table, row, and column
+- remembering the correct SQL syntax
+
+**Takeaway:**
+SQL is the standard language for working with relational databases. Learning the basics of selecting and reading data is the foundation for advanced database operations and backend development.
+
+## Learning Journey
+
+This repo will grow over time as I continue learning and improving my skills in software development. It will act as a personal knowledge base and a reflection of my progress.
+
+## Notes
+
+- Keep learning consistent every day
+- Write clear and brief notes
+- Practice code along with theory
+- Review previous topics regularly
+- Build projects to apply concepts in real life
+
+## Goal
+
+To become a confident and skilled software developer by learning, practicing, and documenting my journey every single day.
+
+---
+
+This repository is a daily log of my software learning process and personal growth in technology.
